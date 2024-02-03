@@ -10,5 +10,5 @@ function calculateVal() {
 
 function clearText()
 {
-    displayInnput = "";
+    displayInnput.value = "";
 }
